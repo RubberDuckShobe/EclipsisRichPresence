@@ -1,2 +1,7 @@
-# EclipsisDiscordRichPresence
+# EclipsisRichPresence
 Discord Rich Presence for the ROBLOX game Eclipsis.
+
+**DISCLAIMER: This does NOT interfere with, attach to or modify ROBLOX processes in any way.** This means that this program will not be able to pull any match information or other data from the game. Unless Eclipsis' developers make an API for this, this is impossible to pull off (without breaking ROBLOX or Eclipsis rules).
+
+## What _does_ it do, then?
+It shows if you're in the lobby, or if you're in a match. If the latter is the case, it shows for how long the match has been going on. You need to manually select which presence to use whenever a match starts/finishes, but it's just two key presses (entering a number from the list and pressing enter)
